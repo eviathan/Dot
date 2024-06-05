@@ -1,0 +1,11 @@
+/Users/brian/Dev/Audio/Dot/Dot.Core/bin/Debug/net8.0/Dot.Core.deps.json
+/Users/brian/Dev/Audio/Dot/Dot.Core/bin/Debug/net8.0/Dot.Core.dll
+/Users/brian/Dev/Audio/Dot/Dot.Core/bin/Debug/net8.0/Dot.Core.pdb
+/Users/brian/Dev/Audio/Dot/Dot.Core/obj/Debug/net8.0/Dot.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/Dev/Audio/Dot/Dot.Core/obj/Debug/net8.0/Dot.Core.AssemblyInfoInputs.cache
+/Users/brian/Dev/Audio/Dot/Dot.Core/obj/Debug/net8.0/Dot.Core.AssemblyInfo.cs
+/Users/brian/Dev/Audio/Dot/Dot.Core/obj/Debug/net8.0/Dot.Core.csproj.CoreCompileInputs.cache
+/Users/brian/Dev/Audio/Dot/Dot.Core/obj/Debug/net8.0/Dot.Core.dll
+/Users/brian/Dev/Audio/Dot/Dot.Core/obj/Debug/net8.0/refint/Dot.Core.dll
+/Users/brian/Dev/Audio/Dot/Dot.Core/obj/Debug/net8.0/Dot.Core.pdb
+/Users/brian/Dev/Audio/Dot/Dot.Core/obj/Debug/net8.0/ref/Dot.Core.dll

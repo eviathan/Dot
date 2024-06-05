@@ -1,0 +1,11 @@
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/bin/Debug/net8.0/Dot.DataAccess.deps.json
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/bin/Debug/net8.0/Dot.DataAccess.dll
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/bin/Debug/net8.0/Dot.DataAccess.pdb
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/obj/Debug/net8.0/Dot.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/obj/Debug/net8.0/Dot.DataAccess.AssemblyInfoInputs.cache
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/obj/Debug/net8.0/Dot.DataAccess.AssemblyInfo.cs
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/obj/Debug/net8.0/Dot.DataAccess.csproj.CoreCompileInputs.cache
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/obj/Debug/net8.0/Dot.DataAccess.dll
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/obj/Debug/net8.0/refint/Dot.DataAccess.dll
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/obj/Debug/net8.0/Dot.DataAccess.pdb
+/Users/brian/Dev/Audio/Dot/Dot.DataAccess/obj/Debug/net8.0/ref/Dot.DataAccess.dll
